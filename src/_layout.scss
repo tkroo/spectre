@@ -74,6 +74,7 @@
   &.col-6,
   &.col-5,
   &.col-4,
+  &.col-5th,
   &.col-3,
   &.col-2,
   &.col-1,
@@ -107,6 +108,9 @@
 }
 .col-4 {
   width: 33.33333333%;
+}
+.col-5th {
+  width: 20%;
 }
 .col-3 {
   width: 25%;
@@ -142,6 +146,7 @@
   .col-xl-6,
   .col-xl-5,
   .col-xl-4,
+  .col-xl-5th,
   .col-xl-3,
   .col-xl-2,
   .col-xl-1,
@@ -175,6 +180,9 @@
   .col-xl-4 {
     width: 33.33333333%;
   }
+  .col-xl-5th {
+    width: 20%;
+  }
   .col-xl-3 {
     width: 25%;
   }
@@ -204,6 +212,7 @@
   .col-lg-6,
   .col-lg-5,
   .col-lg-4,
+  .col-lg-5th,
   .col-lg-3,
   .col-lg-2,
   .col-lg-1,
@@ -237,6 +246,9 @@
   .col-lg-4 {
     width: 33.33333333%;
   }
+  .col-lg-5th {
+    width: 20%;
+  }
   .col-lg-3 {
     width: 25%;
   }
@@ -266,6 +278,7 @@
   .col-md-6,
   .col-md-5,
   .col-md-4,
+  .col-md-5th,
   .col-md-3,
   .col-md-2,
   .col-md-1,
@@ -299,6 +312,9 @@
   .col-md-4 {
     width: 33.33333333%;
   }
+  .col-md-5th {
+    width: 20%;
+  }
   .col-md-3 {
     width: 25%;
   }
@@ -328,6 +344,7 @@
   .col-sm-6,
   .col-sm-5,
   .col-sm-4,
+  .col-sm-5th,
   .col-sm-3,
   .col-sm-2,
   .col-sm-1,
@@ -361,6 +378,9 @@
   .col-sm-4 {
     width: 33.33333333%;
   }
+  .col-sm-5th {
+    width: 20%;
+  }
   .col-sm-3 {
     width: 25%;
   }
@@ -390,6 +410,7 @@
   .col-xs-6,
   .col-xs-5,
   .col-xs-4,
+  .col-xs-5th,
   .col-xs-3,
   .col-xs-2,
   .col-xs-1,
@@ -422,6 +443,9 @@
   }
   .col-xs-4 {
     width: 33.33333333%;
+  }
+  .col-xs-5th {
+    width: 20%;
   }
   .col-xs-3 {
     width: 25%;
